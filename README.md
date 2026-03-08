@@ -19,7 +19,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 ### 🚀 About Me  
 - 🌱 Currently learning **DBMS, SQL, PostgreSQL, Prisma, and advanced backend architecture**  
 - 👨‍💻 All my projects are available at:  
-  **https://mohifullstack.netlify.app**  
+  **https://mohifullstack.dev**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs**  
 - 📫 Reach me at: **mohiu5204@gmail.com**  
 - ⚡ Fun fact: **I think I'm Not funny 😄**
