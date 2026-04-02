@@ -3,7 +3,7 @@
 <h1 align="left">Hi There, I'm Mohi Uddin 👋</h1>
 
 <h3 align="left">
-Full‑Stack Developer | React & Next.js Specialist <br/>
+🚀 Full‑Stack Developer | React & Next.js Specialist <br/>
 Crafting Scalable Web Applications with Modern UI/UX <br/>
 JavaScript • TypeScript • Node.js • Tailwind CSS
 </h3>
@@ -16,21 +16,18 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 
 ---
 
-### 🚀 About Me  
+## 🔥 About Me  
 - 🌱 Currently learning **DBMS, SQL, PostgreSQL, Prisma, and advanced backend architecture**  
-- 👨‍💻 All my projects are available at:  
-  **https://mohifullstack.dev**  
+- 👨‍💻 Explore all my projects: **[mohifullstack.dev](https://mohifullstack.dev)**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs**  
 - 📫 Reach me at: **mohiu5204@gmail.com**  
-- ⚡ Fun fact: **I think I'm Not funny **
+- ⚡ Fun fact: **I believe humor keeps coding fun 😄**
 
 ---
 
 <a href="https://app.daily.dev/mohifullstack">
   <img src="https://api.daily.dev/devcards/v2/EaAOUEuOiOYZscNNJuGot.png?type=default&r=fbp" width="356" alt="MD Mohi Uddin's Dev Card"/>
 </a>
-
-<img src="https://media.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif" width="200" alt="funny gif"/>
 
 ---
 
@@ -49,67 +46,4 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="left">
 
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="40" height="40"/>
-</a>
-
-<!-- Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="50" height="40"/>
-</a>
-
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-</a>
-
-<!-- Node.js -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Prisma -->
-<a href="https://www.prisma.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
-</a>
-
-</p>
