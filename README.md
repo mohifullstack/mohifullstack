@@ -22,7 +22,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
   **https://mohifullstack.dev**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs**  
 - 📫 Reach me at: **mohiu5204@gmail.com**  
-- ⚡ Fun fact: **I think I'm Not funny 😄**
+- ⚡ Fun fact: **I think I'm Not funny **
 
 ---
 
@@ -39,7 +39,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 <a href="https://x.com/mohiuddin_2000" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/mohammedmohiuddin" target="_blank">
+<a href="https://www.linkedin.com/in/mohifullstack" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/mdmohiuddin.hafiz" target="_blank">
