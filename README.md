@@ -26,7 +26,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 
 ---
 
-<a href="https://app.daily.dev/mdmohiuddin">
+<a href="https://app.daily.dev/mohifullstack">
   <img src="https://api.daily.dev/devcards/v2/EaAOUEuOiOYZscNNJuGot.png?type=default&r=fbp" width="356" alt="MD Mohi Uddin's Dev Card"/>
 </a>
 
