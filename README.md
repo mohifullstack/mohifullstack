@@ -20,7 +20,7 @@ JavaScript • TypeScript • Node.js • Tailwind CSS
 - 🌱 Currently learning **DBMS, SQL, PostgreSQL, Prisma, and advanced backend architecture**  
 - 👨‍💻 Explore all my projects: **[mohifullstack.dev](https://mohifullstack.dev)**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs**  
-- 📫 Reach me at: **mohiu5204@gmail.com**  
+- 📫 Reach me at: **mohifullstack@gmail.com**  
 - ⚡ Fun fact: **I believe humor keeps coding fun 😄**
 
 ---
