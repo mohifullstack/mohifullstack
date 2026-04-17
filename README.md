@@ -8,7 +8,7 @@ Crafting Scalable Web Applications with Modern UI/UX <br/>
 JavaScript • TypeScript • Node.js • Tailwind CSS
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdmohiuddin-web&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohiuddin-web" />
